@@ -1,2 +1,3 @@
-# pretty_table
+# Pretty Table
+
 Displays prettier tables.
